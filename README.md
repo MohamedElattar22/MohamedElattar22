@@ -1,3 +1,5 @@
+### <div align="center">I'm Mohamed Elattar , Native Android developer 👨‍💻</div>  
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -8,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedElattar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  
-
-### <div align="center">I'm Mohamed Elattar , Native Android developer 👨‍💻</div>  
-  
 
 - 🔭 I’m currently working as an Android Development Instructor for Mobjoy Community  
   
@@ -26,11 +24,8 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
+</td><td valign="top" width="100%">
 
 
 
