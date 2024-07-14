@@ -1,5 +1,5 @@
 ### <div align="center">I'm Mohamed Elattar , Native Android developer 👨‍💻</div>  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedElattar22)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -55,5 +55,5 @@
 </div>
 
 </td></tr></table>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedElattar22)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>  
