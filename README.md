@@ -12,7 +12,7 @@
 </div>
 
 
-- 🔭 I’m currently working as an Android Development Instructor for Mobjoy Community  
+- 🔭 I’m currently working as an Android Engineer @POSMission
   
 
 - 🌱 I’m currently learning Compose and Clean Architecture   
